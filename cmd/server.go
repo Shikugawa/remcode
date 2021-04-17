@@ -15,7 +15,7 @@
 package cmd
 
 import (
-	"github.com/Shikugawa/remcode/daemon"
+	"github.com/Shikugawa/remcode/pkg/daemon"
 	"github.com/spf13/cobra"
 )
 

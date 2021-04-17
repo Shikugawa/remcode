@@ -15,7 +15,7 @@
 package cmd
 
 import (
-	"github.com/Shikugawa/remcode/host"
+	"github.com/Shikugawa/remcode/pkg/host"
 	"github.com/spf13/cobra"
 )
 
